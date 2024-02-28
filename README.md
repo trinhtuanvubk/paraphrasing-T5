@@ -43,3 +43,7 @@ python3 main.py \
 
 - Flag:
 	- `--max_length`: maxium length of `sentence`.
+
+
+### Triton Deployment
+- To deploy with Triton Server: https://github.com/trinhtuanvubk/t5-triton-pipeline
